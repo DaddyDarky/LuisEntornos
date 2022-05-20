@@ -1,0 +1,2 @@
+Aqui lo que haremos sera refactorizar un proyecto ya dado
+Simplemente lo haremos en IntelliJ
